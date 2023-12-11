@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '我的网站'
+theme = 'ananke'
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
