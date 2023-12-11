@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '我的网站'
 theme = 'ananke'
+publishDir = "docs"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
