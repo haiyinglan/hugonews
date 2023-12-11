@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://haiyinglan.github.io/hugonews/'
 languageCode = 'en-us'
 title = '我的网站'
 theme = 'ananke'
